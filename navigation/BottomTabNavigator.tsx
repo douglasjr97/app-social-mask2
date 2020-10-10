@@ -15,7 +15,7 @@ const BottomTab = createBottomTabNavigator<BottomTabParamList>();
 
 export default function BottomTabNavigator() {
   const colorScheme = useColorScheme();
-
+//Allan 11:37
   return (
     <BottomTab.Navigator
       initialRouteName="Home"
